@@ -2,7 +2,7 @@
 //  LocationCell.swift
 //  Photo Map
 //
-//  Created by Timothy Lee on 10/20/14.
+//  Created by David Tan on 03/08/18.
 //  Copyright (c) 2014 Timothy Lee. All rights reserved.
 //
 
